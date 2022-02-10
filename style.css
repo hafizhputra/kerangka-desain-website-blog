@@ -1,0 +1,39 @@
+*{
+  margin: 0px;
+  padding: 0px;
+ 
+}
+
+body{
+  font-family: 'century gothic';
+}
+
+.tabel{
+  
+ 
+}
+
+.tabel td {
+ height: 60px;
+}
+
+
+
+.tabel a{
+ color:rgb(0, 0, 0);
+ 
+}
+
+.menu{
+  text-decoration: none;
+}
+
+.slider{
+  height:500px;
+}
+
+.line {
+  background-color: black;
+  width: 200px;
+  height:2px;
+}
